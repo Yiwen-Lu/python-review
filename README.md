@@ -1,2 +1,2 @@
-# python_review
-My reviews on Python programming based on online courses: https://www.sololearn.com/Play/Python/
+# Reviews for Python
+My reviews for Python programming based on online courses: https://www.sololearn.com/Play/Python/
