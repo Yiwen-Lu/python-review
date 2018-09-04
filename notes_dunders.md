@@ -30,6 +30,8 @@
 **`__iter__`** for iteration over objects (e.g., in for loops)   
 **`__contains__`** for in   
 
+**`__repr__`** for string representation of the instance   
+
 ### Object Lifecycle:   
 **`__new__`** befor instantiation, usually overridden only in special cases   
 **`__del__`** for del instance   
