@@ -29,3 +29,7 @@
 **`__delitem__`** for deleting indexed values   
 **`__iter__`** for iteration over objects (e.g., in for loops)   
 **`__contains__`** for in   
+
+### Object Lifecycle:   
+**`__new__`** befor instantiation, usually overridden only in special cases   
+**`__del__`** for del instance   
