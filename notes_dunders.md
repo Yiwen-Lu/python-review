@@ -1,4 +1,4 @@
-# dunders
+# dunders:
 
 ## magic methods
 
@@ -23,9 +23,9 @@
 **__ge__** for >=   
 
 ### containers:   
-**__len__** for len()
-**__getitem__** for indexing
-**__setitem__** for assigning to indexed values
-**__delitem__** for deleting indexed values
-**__iter__** for iteration over objects (e.g., in for loops)
-**__contains__** for in
+**__len__** for len()   
+**__getitem__** for indexing   
+**__setitem__** for assigning to indexed values   
+**__delitem__** for deleting indexed values   
+**__iter__** for iteration over objects (e.g., in for loops)   
+**__contains__** for in   
