@@ -3,10 +3,10 @@
 ## magic methods
 
 ### operators:   
-**\__add__** for +   
-**\__sub__** for -   
-**\__mul__** for *   
-**\__truediv__** for /   
+`__add__` for +   
+**__sub__** for -   
+**__mul__** for *   
+**__truediv__** for /   
 **__floordiv__** for //   
 **__mod__** for %   
 **__pow__** for **   
