@@ -4,15 +4,15 @@
 
 ### operators:   
 **`__add__`** for +   
-**__sub__** for -   
-**__mul__** for *   
-**__truediv__** for /   
-**__floordiv__** for //   
-**__mod__** for %   
-**__pow__** for **   
-**__and__** for &   
-**__xor__** for ^   
-**__or__** for |   
+**`__sub__`** for -   
+**`__mul__`** for *   
+**`__truediv__`** for /   
+**`__floordiv__`** for //   
+**`__mod__`** for %   
+**`__pow__`** for **   
+**`__and__`** for &   
+**`__xor__`** for ^   
+**`__or__`** for |   
 
 ### comparisons:   
 **__lt__** for <   
