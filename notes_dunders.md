@@ -2,7 +2,7 @@
 
 ## magic methods
 
-### - operators:   
+### * operators:   
 **`__add__`** for +   
 **`__sub__`** for -   
 **`__mul__`** for *   
