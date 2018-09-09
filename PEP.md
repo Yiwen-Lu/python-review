@@ -1,8 +1,8 @@
-#Python Enhancement Proposals (PEP)   
+# Python Enhancement Proposals (PEP)   
 
 Python Enhancement Proposals (PEP) are suggestions for improvements to the language, made by experienced Python developers.   
 
-####PEP 8 is a style guide on the subject of writing readable code. It contains a number of guidelines in reference to variable names, which are summarized here:   
+#### PEP 8 is a style guide on the subject of writing readable code. It contains a number of guidelines in reference to variable names, which are summarized here:   
 - modules should have short, all-lowercase names;  
 - class names should be in the CapWords style;   
 - most variables and function names should be lowercase_with_underscores;   
@@ -12,7 +12,7 @@ Python Enhancement Proposals (PEP) are suggestions for improvements to the langu
 PEP 8 also recommends using spaces around operators and after commas to increase readability.   
 
 
-####Other PEP 8 suggestions include the following:   
+#### Other PEP 8 suggestions include the following:   
 - lines shouldn't be longer than 80 characters;   
 - 'from module import *' should be avoided;   
 - there should only be one statement per line.   
