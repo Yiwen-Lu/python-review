@@ -3,14 +3,14 @@
 
 **NumPy**, **SciPy** (extensions to NumPy), **matplotlib**
 
-### popular web frameworks:
+## popular web frameworks:
 **Django**(incl. for Instagram), **CherryPy**, **Flask**   
 
-### scraping data from websites:   
+## scraping data from websites:   
 **BeautifulSoup**
 
-### 2D games:
+## 2D games:
 **pygame**
 
-### 3D games:
+## 3D games:
 **Panda3D**
