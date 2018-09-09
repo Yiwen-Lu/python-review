@@ -1,5 +1,7 @@
 **The Zen of Python**, by Tim Peters   
 
+`import this`
+
 Beautiful is better than ugly.   
 Explicit is better than implicit.   
 Simple is better than complex.   
