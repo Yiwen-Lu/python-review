@@ -1,8 +1,6 @@
 # dunders:
 
-### magic methods   
-
-#### operators:   
+### operators:   
 **`__add__`** for +   
 **`__sub__`** for -   
 **`__mul__`** for *   
@@ -14,7 +12,7 @@
 **`__xor__`** for ^   
 **`__or__`** for |   
 
-#### comparisons:   
+### comparisons:   
 **`__lt__`** for <   
 **`__le__`** for <=   
 **`__eq__`** for ==   
@@ -22,7 +20,7 @@
 **`__gt__`** for >   
 **`__ge__`** for >=   
 
-#### containers:   
+### containers:   
 **`__len__`** for len()   
 **`__getitem__`** for indexing   
 **`__setitem__`** for assigning to indexed values   
