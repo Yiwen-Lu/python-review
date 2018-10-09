@@ -30,10 +30,10 @@ def split_data(data, frame_num):
 
 
 def main(args):
-	# load data
+	# import data
 	raw_f = h5py.File(args.raw_data_file_name, 'r')
 	raw_data = np.array(raw_f['exported_data'])
-	# split
+	# split data
 	split_data(raw_data, args.frame_num)
 	print('done!')
 
