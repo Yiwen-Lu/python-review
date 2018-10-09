@@ -25,7 +25,8 @@ def split_data(data, frame_num):
 		splitted_data_file_name = frame_idx + '_input.h5'
 		split_f = h5py.File(splitted_data_file_name, 'w')
 		group = split_f.create_group('exported_data')
-		group.create_dataset(name=splitted_data_file_name[:-2], data=frames)
+		group.create_dataset(name=splitted_data_file_name[:-2], 
+							 data=frames, dtype=np.uint8)
 		split_f.close()
 
 
